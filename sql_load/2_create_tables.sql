@@ -8,6 +8,7 @@ CREATE TABLE public.company_dim
     thumbnail TEXT
 );
 
+
 -- Create skills_dim table with primary key
 CREATE TABLE public.skills_dim
 (
